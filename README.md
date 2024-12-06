@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CucharaCafetera
+- Currently learning R
+- Python Junior
